@@ -1,0 +1,127 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "Sketchup glTF Exporter v1.2.6 by Centaur"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "samplers": [
+    {
+    }
+  ],
+  "nodes": [
+    {
+      "name": "root",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Г",
+      "mesh": 0
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "metallicFactor": 0.1,
+        "roughnessFactor": 0.9
+      },
+      "name": "Цвет H05"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "mode": 4,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 36,
+      "type": "VEC3",
+      "min": [
+        -1.0605655011720936,
+        -0.29654999999999904,
+        -1.4229926063141884
+      ],
+      "max": [
+        0.49004113995178944,
+        0.03345000000000109,
+        1.1917902800204223
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 36,
+      "type": "VEC3",
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5121,
+      "count": 60,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 432,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 432,
+      "byteLength": 432,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 864,
+      "byteLength": 60,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "data:application/octet-stream;base64,nMCHv2fVl76fJLa/R342v2fVl74XlY6/nMCHv2fVl76VjJg/rOb6PmfVl76fJLa/rOb6PmfVl74XlY6/R342v2fVl76VjJg/R342v94CCT2VjJg/nMCHv94CCT2fJLa/nMCHv94CCT2VjJg/R342v94CCT0XlY6/rOb6Pt4CCT2fJLa/rOb6Pt4CCT0XlY6/rOb6Pt4CCT0XlY6/R342v2fVl74XlY6/rOb6PmfVl74XlY6/R342v94CCT0XlY6/R342v2fVl74XlY6/R342v94CCT2VjJg/R342v2fVl76VjJg/R342v94CCT0XlY6/R342v94CCT2VjJg/nMCHv2fVl76VjJg/R342v2fVl76VjJg/nMCHv94CCT2VjJg/nMCHv94CCT2fJLa/nMCHv2fVl76VjJg/nMCHv94CCT2VjJg/nMCHv2fVl76fJLa/nMCHv94CCT2fJLa/rOb6PmfVl76fJLa/nMCHv2fVl76fJLa/rOb6Pt4CCT2fJLa/rOb6PmfVl76fJLa/rOb6Pt4CCT0XlY6/rOb6PmfVl74XlY6/rOb6Pt4CCT2fJLa/dL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kMjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/AACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAACAP3S+GwoyMY0lMjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/AACAv3S+G4oyMY2lAACAv3S+G4oyMY2lAACAv3S+G4oyMY2lAACAv3S+G4oyMY2lMjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/AACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAAECAQADAQMEBQIBBgcIBwYJBwkKCgkLDA0ODQwPEBESERATFBUWFRQXGBkaGRgbHB0eHRwfICEiISAj",
+      "byteLength": 924
+    }
+  ]
+}

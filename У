@@ -1,0 +1,127 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "Sketchup glTF Exporter v1.2.6 by Centaur"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "samplers": [
+    {
+    }
+  ],
+  "nodes": [
+    {
+      "name": "root",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "У",
+      "mesh": 0
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "metallicFactor": 0.1,
+        "roughnessFactor": 0.9
+      },
+      "name": "Цвет H05"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "mode": 4,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 100,
+      "type": "VEC3",
+      "min": [
+        -1.0959008266838461,
+        -0.2746499999999994,
+        -1.240233851589572
+      ],
+      "max": [
+        0.8336777173774568,
+        0.029550000000000742,
+        1.1782144242724977
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 100,
+      "type": "VEC3",
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "max": [
+        0.9184617392964379,
+        1.0,
+        0.9994763916250742
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5121,
+      "count": 240,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1200,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1200,
+      "byteLength": 1200,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2400,
+      "byteLength": 240,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "data:application/octet-stream;base64,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",
+      "byteLength": 2640
+    }
+  ]
+}

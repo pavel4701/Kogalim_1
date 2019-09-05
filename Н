@@ -1,0 +1,127 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "Sketchup glTF Exporter v1.2.6 by Centaur"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "samplers": [
+    {
+    }
+  ],
+  "nodes": [
+    {
+      "name": "root",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "Н",
+      "mesh": 0
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "metallicFactor": 0.1,
+        "roughnessFactor": 0.9
+      },
+      "name": "Цвет H05"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "mode": 4,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 72,
+      "type": "VEC3",
+      "min": [
+        -1.6443028875921004,
+        -0.15626086319120944,
+        -1.1471894710020862
+      ],
+      "max": [
+        0.15391231036447728,
+        0.1563391368087907,
+        1.3297230449621544
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 72,
+      "type": "VEC3",
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5121,
+      "count": 132,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 864,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 864,
+      "byteLength": 864,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1728,
+      "byteLength": 132,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "data:application/octet-stream;base64,MJsdPtkCIL4b15K/nKozvtkCIL4l8DO+nKozvtkCIL4b15K/nKozvtkCIL4+uO89nKozvtkCIL5dNKo/MJsdPtkCIL5dNKo/y0+ov9kCIL4+uO89y0+ov9kCIL4l8DO+y0+ov9kCIL4b15K/hHjSv9kCIL5dNKo/hHjSv9kCIL4b15K/y0+ov9kCIL5dNKo/MJsdPl4XID5dNKo/nKozvl4XID4+uO89nKozvl4XID5dNKo/nKozvl4XID4l8DO+nKozvl4XID4b15K/MJsdPl4XID4b15K/y0+ov14XID4l8DO+y0+ov14XID4+uO89y0+ov14XID5dNKo/hHjSv14XID4b15K/hHjSv14XID5dNKo/y0+ov14XID4b15K/MJsdPl4XID5dNKo/nKozvtkCIL5dNKo/MJsdPtkCIL5dNKo/nKozvl4XID5dNKo/nKozvl4XID4+uO89nKozvtkCIL5dNKo/nKozvl4XID5dNKo/nKozvtkCIL4+uO89nKozvl4XID4+uO89y0+ov9kCIL4+uO89nKozvtkCIL4+uO89y0+ov14XID4+uO89y0+ov9kCIL4+uO89y0+ov14XID5dNKo/y0+ov9kCIL5dNKo/y0+ov14XID4+uO89y0+ov14XID5dNKo/hHjSv9kCIL5dNKo/y0+ov9kCIL5dNKo/hHjSv14XID5dNKo/hHjSv14XID4b15K/hHjSv9kCIL5dNKo/hHjSv14XID5dNKo/hHjSv9kCIL4b15K/hHjSv14XID4b15K/y0+ov9kCIL4b15K/hHjSv9kCIL4b15K/y0+ov14XID4b15K/y0+ov9kCIL4b15K/y0+ov14XID4l8DO+y0+ov9kCIL4l8DO+y0+ov14XID4b15K/y0+ov14XID4l8DO+nKozvtkCIL4l8DO+y0+ov9kCIL4l8DO+nKozvl4XID4l8DO+nKozvl4XID4b15K/nKozvtkCIL4l8DO+nKozvl4XID4l8DO+nKozvtkCIL4b15K/nKozvl4XID4b15K/MJsdPtkCIL4b15K/nKozvtkCIL4b15K/MJsdPl4XID4b15K/MJsdPtkCIL4b15K/MJsdPl4XID5dNKo/MJsdPtkCIL5dNKo/MJsdPl4XID4b15K/dL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bigAAgL8yMY0kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kdL4bCgAAgD8yMY2kMjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/AACAv3S+G4oyMY2lAACAv3S+G4oyMY2lAACAv3S+G4oyMY2lAACAv3S+G4oyMY2lMjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/AACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAACAP3S+GwoyMY0lMjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/MjGNpTIxjSQAAIA/AACAv3S+G4oyMY2lAACAv3S+G4oyMY2lAACAv3S+G4oyMY2lAACAv3S+G4oyMY2lMjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/AACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAACAP3S+GwoyMY0lMjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/AACAv3S+G4oyMY2lAACAv3S+G4oyMY2lAACAv3S+G4oyMY2lAACAv3S+G4oyMY2lMjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/MjGNJTIxjaQAAIC/AACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAACAP3S+GwoyMY0lAAECAQADAwAEBAAFAQYHBgEDCAkKCQgLCwgHCwcGDA0ODQwPDwwQEAwRDRITEg0PFBUWFRQXFxQTFxMSGBkaGRgbHB0eHRwfICEiISAjJCUmJSQnKCkqKSgrLC0uLSwvMDEyMTAzNDU2NTQ3ODk6OTg7PD0+PTw/QEFCQUBDREVGRURH",
+      "byteLength": 1860
+    }
+  ]
+}
